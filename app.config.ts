@@ -27,7 +27,7 @@ export default defineAppConfig({
     },
     socials: {
       facebook: 'rosamate.mx23',
-      instagram: 'rosamatemx',
+      instagram: 'rosamate.mx',
       
     },
     form: {
