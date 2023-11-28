@@ -13,17 +13,17 @@ export default defineAppConfig({
       logo: {
         path: '/logo.svg', // path of the logo
         pathDark: '/logo-dark.svg', // path of the logo in dark mode, leave this empty if you want to use the same logo
-        alt: 'alpine' // alt of the logo
+        alt: 'joyeria' // alt of the logo
       }
     },
     footer: {
       credits: {
-        enabled: true, // possible value are : true | false
+        enabled: false, // possible value are : true | false
         repository: 'https://www.github.com/nuxt-themes/alpine' // our github repository
       },
       navigation: true, // possible value are : true | false
       alignment: 'center', // possible value are : 'none' | 'left' | 'center' | 'right'
-      message: 'Follow me on' // string that will be displayed in the footer (leave empty or delete to disable)
+      message: 'Síguenos en' // string that will be displayed in the footer (leave empty or delete to disable)
     },
     socials: {
       facebook: 'rosamate.mx23',
@@ -31,7 +31,7 @@ export default defineAppConfig({
       
     },
     form: {
-      successMessage: 'Message sent. Thank you!'
+      successMessage: 'Mensaje enviado. ¡Gracias!'
     }
   }
 })
