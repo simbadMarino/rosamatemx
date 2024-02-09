@@ -26,7 +26,7 @@ export default defineAppConfig({
       message: 'Síguenos en' // string that will be displayed in the footer (leave empty or delete to disable)
     },
     socials: {
-      facebook: 'rosamate.mx23',
+      facebook: '61556350109295&mibextid=LQQJ4d',
       instagram: 'rosamate.mx',
       
     },
